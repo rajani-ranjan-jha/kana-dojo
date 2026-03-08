@@ -617,8 +617,10 @@
     "romaji": "Ryouyaku wa kuchi ni nigashi",
     "english": "Good medicine tastes bitter",
     "meaning": "Helpful advice can be hard to hear",
-    "completed": false,
-    "issued": true
+    "completed": true,
+    "issued": false,
+    "completedBy": "juasfd97h",
+    "completedPR": 7706
   },
   {
     "id": 70,
